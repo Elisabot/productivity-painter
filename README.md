@@ -5,12 +5,12 @@ Paint holiday and mental health breaks with colorful patterns and generally make
 
 We're using Annihil's [github-spray](https://github.com/Annihil/github-spray) cli tool.
 
-##How Do I Do This Again?
-install the cli tool
+## How Do I Do This Again?
+install the cli tool <br>
 `npm i -g github-spray`
 
-make a repo and foo bar it's commit history
-```github-spray --multiplier 10 --startdate 2019-11-24 -f patterns/quilt-patch.json --push --origin https://github.com/Elisabot/productivity-painter```
+make a repo, push it to github, and *fubar* its' commit history <br>
+`github-spray --multiplier 10 --startdate 2019-11-24 -f patterns/quilt-patch.json --push --origin https://github.com/Elisabot/productivity-painter`
 
 ## GUI Spray Generator
 https://annihil.github.io/github-spray-generator/
