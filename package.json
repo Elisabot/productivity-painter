@@ -1,7 +1,7 @@
 {
-  "name": "y",
+  "name": "productivity painter",
   "version": "1.0.0",
-  "description": "",
+  "description": "lets play with the productivity chart on github",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
