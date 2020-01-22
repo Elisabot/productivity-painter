@@ -1,5 +1,5 @@
 # Christmas Break Artwork 2019
-Visited family, journaled a lot, got a boyfriend, got the flu and took some time to work on myself and get healthy again.
+Visited family, journaled a lot, got a special person, got the flu and took some time to work on myself and get healthy again.
 
 `github-spray --startdate 2019-11-17 --file patterns/quilt-patch.json --push --origin https://github.com/Elisabot/productivity-painter.git`
 
