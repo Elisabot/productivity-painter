@@ -1,7 +1,7 @@
 # Productivity Painter
 Don't waist your lovely thoughts feeling concerned that people are judging your github productivity chart. **Make something cool!!**
 
-Paint holiday and mental health breaks with colorful patterns and generally make anything look like whatever you like. You're doing a great job just being you in this world, and that isn't easy, so keep your head up. <3
+Paint holiday and general breaks with colorful patterns and generally make anything look like whatever you like. You're doing a great job just being you in this world, and that isn't easy, so keep your head up. <3
 
 We're using Annihil's [github-spray](https://github.com/Annihil/github-spray) cli tool.
 
